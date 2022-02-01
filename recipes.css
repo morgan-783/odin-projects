@@ -1,0 +1,33 @@
+#indexhead {
+    text-align:center;
+}
+
+#lists {
+margin-top: 3 rem;
+height: 200px;
+text-align: center;
+}
+
+.recipe {
+    padding: 5px;
+    font-size: 1.5rem;
+    text-align: center;
+}
+
+img.imagealign {
+   display: block;
+   margin: 0px auto;
+   width: 450px;
+   height: 350px;
+
+}
+h1 {
+    text-align:center;
+}
+header {
+    border: 5px solid rgb(166, 163, 182);
+    padding: 10px;
+    width: 40px;
+    border-radius: 10px;
+
+}
